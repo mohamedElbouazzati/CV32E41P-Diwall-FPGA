@@ -1,0 +1,6 @@
+[submodule "benchmarks/fpga/HPMtracer"]
+	path = benchmarks/fpga/HPMtracer
+	url = git@github.com:mohamedElbouazzati/HPMtracer.git
+[submodule "benchmarks/fpga/cv32e41p"]
+	path = benchmarks/fpga/cv32e41p
+	url = https://github.com/openhwgroup/cv32e41p.git
